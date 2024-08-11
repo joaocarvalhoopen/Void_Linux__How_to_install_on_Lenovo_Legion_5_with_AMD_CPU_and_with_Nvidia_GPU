@@ -15,7 +15,7 @@ In my case I don't care about Windows so I removed it completely from my disk an
 
 1. Download the image for glibc with xfce from Void Linux site.
 
-2. Save it to a pen with the free app for Windows or Linux, BalenaEtcher.
+2. Save it to a pen with the free app for Windows or Linux, BalenaEtcher. <br>
    [https://etcher.balena.io/](https://etcher.balena.io/)
 
 3. Bios Change - When starting press F2 and the BIOS menu will come one, on the BIOS security folder, disable the Secure BOOT, I had to make this in order to install Linux on this computer.
